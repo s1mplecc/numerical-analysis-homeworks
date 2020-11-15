@@ -43,4 +43,4 @@ if __name__ == '__main__':
 当x0=-1.2时f(x)收敛到{newton(fx, -1.2, 0.0001)}
 ''')
 
-    find_max_delta(0.1, 0.1, fx)
+    find_max_delta(0, 0.1, fx)
